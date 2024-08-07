@@ -56,8 +56,8 @@ EMOJI_CODE = {200: '⛈',
               802: '☁',
               803: '☁',
               804: '☁'}
-TOKEN_BOT = '7285646774:AAFRu1ClRZzPMUG1zOmIqDlTCjeKh07bET8'
-TOKEN_WEATHER = '27caba1dc9dc61d97d5744ceb0e37e41'
+TOKEN_BOT = 'TOKEN_BOT'
+TOKEN_WEATHER = 'TOKEN_WEATHER'
 URL_WEATHER = 'https://api.openweathermap.org/data/2.5/weather'
 
 bot = telebot.TeleBot(TOKEN_BOT)
